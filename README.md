@@ -5,10 +5,10 @@ Group web design project - **Creating the Gym website**
 
 Create by:
 
-**Carl Kellegher** - index page 
-**Mirjana Čale** - tehnology page 
-**Marie Mannion** - classes page 
-**Anne King** - pool and spa page 
-**Mirela Pilko** - membership page
+**Carl Kellegher** - index page <br>
+**Mirjana Čale** - tehnology page <br>
+**Marie Mannion** - classes page <br>
+**Anne King** - pool and spa page <br>
+**Mirela Pilko** - membership page<br>
 
 created 2023
