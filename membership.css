@@ -164,6 +164,10 @@
 	input:hover {
 	  box-shadow: 7px 7px 25px 1px Gray;
 	}
+
+        .cursor{
+	   cursor: pointer;
+        }     
 	
 	footer {
 	  text-align:center;
