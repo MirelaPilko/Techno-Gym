@@ -123,14 +123,17 @@
 	   position:absolute;
 	   top:90%;
 	   left:2%;
+	   justify-content: center;
 	}
 	
 	nav > a {
 	  margin-left:5%;
-	  font-size:0.9em;
+	  font-size:1em;
 	  text-shadow:1px 1px 2px black;
 	  color:rgb(215, 199, 199);
-	  padding-bottom:5px;
+	  padding-bottom:11px;
+	  padding-left: 11px;
+	  padding-right: 11px;
 	 }
 	
 	
@@ -163,11 +166,12 @@
 	
 	input:hover {
 	  box-shadow: 7px 7px 25px 1px Gray;
+	  
 	}
 
-        .cursor{
-	   cursor: pointer;
-        }     
+	.cursor{
+		cursor: pointer;
+	}
 	
 	footer {
 	  text-align:center;
@@ -280,9 +284,11 @@
 	  font-size:0.9em;
 	  color:white;
 	  padding:5px;
+	  padding-left: 1px;
+	  padding-right: 1px;
+	 }
 	}
 	
-	}
 	
 	
 	@media screen and (min-width:1025px) { 
@@ -325,6 +331,9 @@
 	  margin:10px; 
 	  font-size:1.2em;
 	  color:white;
+	  padding-left: 2px;
+	  padding-right: 2px;
+
 	}
 	
 }
